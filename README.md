@@ -1,3 +1,5 @@
+# LSM - seminarski
+
 ## Pocetna stranica za seminarski iz LSM
 
 * Spisak tema je na http://teme.matf-lsm.online
