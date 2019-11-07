@@ -1,4 +1,4 @@
-# Početna stranica za seminarski iz LSM
+# Seminarski iz Linearnih statističkih modela
 
 * Spisak tema je na [http://teme.matf-lsm.online](http://teme.matf-lsm.online)
 * Prijavljivanje se vrši na [http://prijava.matf-lsm.online](http://prijava.matf-lsm.online)
