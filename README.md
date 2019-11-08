@@ -1,7 +1,7 @@
 # Seminarski iz Linearnih statističkih modela
 
 * Spisak tema je na [http://matf-lsm.online/teme.pdf](http://matf-lsm.online/teme.pdf)
-* Prijavljivanje se vrši na [http://prijava.matf-lsm.online](http://prijava.matf-lsm.online)
+* Prijavljivanje se vrši na [http://prijava.matf-lsm.online](http://prijava.matf-lsm.online) (https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status)
 * Konačan **rok za slanje je 17.12.2019. u 23:59h**. Odbrana radova će biti u nedelji posle.
 * Pitanja u vezi sa seminarskim se mogu postavljati **do 10.12.2019**.
 
