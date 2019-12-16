@@ -3,7 +3,7 @@
 * Spisak tema je na [http://matf-lsm.online/teme.pdf](http://matf-lsm.online/teme.pdf)
 * Prijavljivanje se vrši na [http://prijava.matf-lsm.online](http://prijava.matf-lsm.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
-* Konačan **rok za slanje je 17.12.2019. u 23:59h**. Odbrana radova će biti u nedelji posle.
+* Konačan **rok za slanje je 19.12.2019. u podne**. Odbrana radova će biti u nedelji posle.
 * Pitanja u vezi sa seminarskim se mogu postavljati **do 16.12.2019**.
 
 ## Napomene / FAQ
