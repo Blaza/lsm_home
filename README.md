@@ -9,12 +9,16 @@ style="display: inline-block; vertical-align: middle;"/> )
 ## Napomene / FAQ
 
 ### Administracija
-* ***Sva* (pisana) komunikacija u vezi sa seminarskim se vrši putem mejla: kurslsm@gmail.com.**<br>
-To uključuje i pitanja za seminarski (koja su uvek dobrodošla :slightly_smiling_face: ) i prijave samostalnih tema i ostale informacije, da bismo ubrzali komunikaciju i mogli zajedno da vidimo mejl.
+
+* ***Sva* (pisana) komunikacija u vezi sa seminarskim se vrši putem mejla: kurslsm@gmail.com.**
+    To uključuje i pitanja za seminarski (koja su uvek dobrodošla :slightly_smiling_face: ) i prijave samostalnih tema i ostale informacije, da bismo ubrzali komunikaciju i mogli zajedno da vidimo mejl.
 * Kolege koje su prošle godine radile seminarski, nisu u obavezi da ga ponovo rade, već im se može preneti broj bodova sa prošlogodišnjeg seminarskog, samo neka se jave na gorepomenuti mejl.
 
 ### Predaja radova
+
 * Radovi se predaju **isključivo** u *pdf formatu, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*, ili u vidu Rmarkdown html prezentacije.
+* Ukoliko nije deo dokumenta, dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno)
+* Kod nikako ne sme biti u vidu slike ni na jednom mestu, jer onda ne možemo pokrenuti isti.
 
 ### Odbrana
 
@@ -23,6 +27,7 @@ To uključuje i pitanja za seminarski (koja su uvek dobrodošla :slightly_smilin
 * Nakon prezentacije svakom članu će biti postavljena neka pitanja u vezi sa radom (svi članovi treba da budu upoznati sa svim delovima rada).
 
 ### Poeni
+
 * Maksimalan broj poena za pismeni deo je 15 poena. Isto važi i za odbranu.
 * Broj poena će biti saopšten nakon što budu održane sve odbrane.
 * Broj poena za rad je isti za sve članove tima dok se za odbranu može dobiti različit broj poena.
