@@ -11,6 +11,7 @@ style="display: inline-block; vertical-align: middle;"/> )
 ### Administracija
 
 * ***Sva* (pisana) komunikacija u vezi sa seminarskim se vrši putem mejla: kurslsm@gmail.com.**
+
     To uključuje i pitanja za seminarski (koja su uvek dobrodošla :slightly_smiling_face: ) i prijave samostalnih tema i ostale informacije, da bismo ubrzali komunikaciju i mogli zajedno da vidimo mejl.
 * Kolege koje su prošle godine radile seminarski, nisu u obavezi da ga ponovo rade, već im se može preneti broj bodova sa prošlogodišnjeg seminarskog, samo neka se jave na gorepomenuti mejl.
 
