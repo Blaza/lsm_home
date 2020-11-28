@@ -13,11 +13,13 @@ style="display: inline-block; vertical-align: middle;"/> )
 * ***Sva* (pisana) komunikacija u vezi sa seminarskim se vrši putem mejla: kurslsm@gmail.com.**
 
     To uključuje i pitanja za seminarski (koja su uvek dobrodošla :slightly_smiling_face: ) i prijave samostalnih tema i ostale informacije, da bismo ubrzali komunikaciju i mogli zajedno da vidimo mejl.
+    Prilikom slanja pitanja, u Subject obavezno staviti naslov teme.
 * Kolege koje su prošle godine radile seminarski, nisu u obavezi da ga ponovo rade, već im se može preneti broj bodova sa prošlogodišnjeg seminarskog, samo neka se jave na gorepomenuti mejl.
 
 ### Predaja radova
 
-* Radovi se predaju **isključivo** u *pdf formatu, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*, ili u vidu Rmarkdown html prezentacije.
+* Radovi se predaju **isključivo** u *pdf formatu, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*.
+* Prilikom slanja rada, u Subject obavezno staviti naslov teme.
 * Ukoliko nije deo dokumenta, dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno)
 * Kod nikako ne sme biti u vidu slike ni na jednom mestu, jer onda ne možemo pokrenuti isti.
 
