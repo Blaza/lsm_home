@@ -1,7 +1,7 @@
 # Seminarski iz Linearnih statističkih modela
 
-* Spisak tema je na [http://matf-lsm.online/teme.pdf](http://matf-lsm.online/teme.pdf)
-* Prijavljivanje se vrši na [http://prijava.matf-lsm.online](http://prijava.matf-lsm.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
+* Spisak tema je na [teme.pdf](ovom linku)
+* Prijavljivanje se vrši na [http://prijava.lsm.matf.online](http://prijava.matf-lsm.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
 
 ## Napomene / FAQ
