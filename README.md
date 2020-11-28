@@ -25,9 +25,10 @@ style="display: inline-block; vertical-align: middle;"/> )
 
 ### Odbrana
 
-* Pripremiti prezentaciju rada zajednički, u trajanju **do 20min**.
+* Pripremiti prezentaciju rada zajednički, u trajanju **do 15min**.
 * Slajdovi nisu neophodni ali mogu doprineti kvalitetu odbrane.
-* Nakon prezentacije svakom članu će biti postavljena neka pitanja u vezi sa radom (svi članovi treba da budu upoznati sa svim delovima rada).
+* Nakon prezentacije svakom članu će biti postavljena neka pitanja u vezi sa radom. Svi članovi treba da budu upoznati sa svim delovima rada.
+* Odbrane će biti održane online i neophodno je da prisustvuju svi članovi timova, kao i svi timovi koji brane seminarski u odgovarajućoj grupi.
 
 ### Poeni
 
