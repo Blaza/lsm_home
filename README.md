@@ -28,7 +28,7 @@ style="display: inline-block; vertical-align: middle;"/> )
 
 ### Predaja radova
 
-* Radovi se predaju **isključivo** u *pdf formatu, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*.
+* Radovi se predaju ***isključivo u pdf formatu**, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*.
 * Prilikom slanja rada, u Subject obavezno staviti naslov teme.
 * Ukoliko nije deo dokumenta, dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno).
 
