@@ -15,12 +15,22 @@ style="display: inline-block; vertical-align: middle;"/> )
     
 * Kolege koje su prošle godine radile seminarski, nisu u obavezi da ga ponovo rade, već im se može preneti broj bodova sa prošlogodišnjeg seminarskog, samo neka se jave na gorepomenuti mejl.
 
+### Izrada radova
+
+* **Literatura** navedena uz temu nije sveobuhvatna i ne treba se ograničavati na nju.<br>
+  Ona je data kao jedna polazna tačka za istraživanje i upoznavanje sa temom.<br>
+  Ohrabrujemo vas da nađete svoje izvore i proširite (ili zaobidjete) datu literaturu, u cilju maksimizovanja kvaliteta konačnog rada.<br>
+  Za sve nedoumice nas možete pitati.
+    
+* Na kraju rada je obavezno da postoji bibliografija korišćene literature (pomoć: [LaTeX](https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex), [Rmarkdown](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html))
+  
+* Kod nikako ne sme biti u vidu slike ni na jednom mestu, jer onda ne možemo pokrenuti isti.
+
 ### Predaja radova
 
 * Radovi se predaju **isključivo** u *pdf formatu, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*.
 * Prilikom slanja rada, u Subject obavezno staviti naslov teme.
-* Ukoliko nije deo dokumenta, dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno)
-* Kod nikako ne sme biti u vidu slike ni na jednom mestu, jer onda ne možemo pokrenuti isti.
+* Ukoliko nije deo dokumenta, dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno).
 
 ### Odbrana
 
