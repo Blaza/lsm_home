@@ -3,6 +3,14 @@
 * Spisak tema je na [ovom linku](teme.pdf)
 * Prijavljivanje se vrši na [https://prijava.lsm.matf.online](https://prijava.lsm.matf.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
+* Rokovi za predaju:
+  - Rok 1
+    - Predaja radova **do 10.01.2021. u 23:59.**
+    - Odbrana u periodu od 13. do 15. januara 2021.
+  - Rok 2
+    - Predaja radova **do 28.02.2021. u 23:59.**
+    - Odbrana u periodu od 5. do 8. marta 2021.
+  - Rasporedi odbrana će biti naknadno objavljeni
 
 ## Napomene / FAQ
 
