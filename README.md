@@ -8,8 +8,8 @@ style="display: inline-block; vertical-align: middle;"/> )
     - Predaja radova **do 10.01.2021. u 23:59.**
     - Odbrana u periodu od 13. do 15. januara 2021.
   - Rok 2
-    - Predaja radova **do 28.02.2021. u 23:59.**
-    - Odbrana u periodu od 5. do 8. marta 2021.
+    - Predaja radova **do 02.03.2021. u 23:59.**
+    - Odbrana ce biti u sedmici posle.
   - Rasporedi odbrana će biti naknadno objavljeni
 
 ## Napomene / FAQ
