@@ -1,5 +1,9 @@
 # Seminarski iz Linearnih statističkih modela
 
+* **Stanje 03.03.2021. u 12:00**
+  - Do sada su predati sledeći radovi: Primena regresionih modela u saobraćaju, Neuronske mreže, Rešavanje problema heteroskedastičnosti, Gama regresija
+  - Ostali radovi će se uzeti u obzir ali uz smanjenje bodova na pismenom delu seminarskog.
+  
 * Spisak tema je na [ovom linku](teme.pdf)
 * Prijavljivanje se vrši na [https://prijava.lsm.matf.online](https://prijava.lsm.matf.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
