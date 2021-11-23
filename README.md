@@ -1,9 +1,5 @@
 # Seminarski iz Linearnih statističkih modela
 
-* **Stanje 03.03.2021. u 12:00**
-  - Do sada su predati sledeći radovi: Primena regresionih modela u saobraćaju, Neuronske mreže, Rešavanje problema heteroskedastičnosti, Gama regresija
-  - Ostali radovi će se uzeti u obzir ali uz smanjenje bodova na pismenom delu seminarskog.
-  
 * Spisak tema je na [ovom linku](teme.pdf)
 * Prijavljivanje se vrši na [https://prijava.lsm.matf.online](https://prijava.lsm.matf.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
@@ -42,12 +38,14 @@ style="display: inline-block; vertical-align: middle;"/> )
 
 * Radovi se predaju ***isključivo u pdf formatu**, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*.
 * Prilikom slanja rada, u Subject obavezno staviti naslov teme.
-* Ukoliko nije deo dokumenta, dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno).
+* Dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno).
+* Kod se moze ubaciti kao deo dokumenta, ali samo ako su to kratki isečci koji imaju svrhu, i sa smislenom veličinom izlaza. **Nikako ne ostavljati u radu kod koji obuhvata vise strana dokumenta ili čiji izlaz obuhvata nekoliko strana. Rad prevashodno mora biti čitljiv.**
+* U vezi sa prethodnom tačkom, ukoliko koristite Rmarkdown, obavezno koristite opcije `echo`, `include`, `message`, `warning`, `results` i slične, radi dobijanja lepšeg rezultujućeg dokumenta, bez suvišnih informacija. Više informacija: https://bookdown.org/yihui/rmarkdown-cookbook/hide-one.html
 
 ### Odbrana
 
 * Pripremiti prezentaciju rada zajednički, u trajanju **do 15min**.
-* Slajdovi nisu neophodni ali mogu doprineti kvalitetu odbrane.
+* Slajdovi nisu neophodni ali su poželjni jer mnogo doprinose kvalitetu odbrane.
 * Nakon prezentacije svakom članu će biti postavljena neka pitanja u vezi sa radom. Svi članovi treba da budu upoznati sa svim delovima rada.
 * Odbrane će biti održane online i neophodno je da prisustvuju svi članovi timova, kao i svi timovi koji brane seminarski u odgovarajućoj grupi.
 
