@@ -3,14 +3,14 @@
 * Spisak tema je na [ovom linku](teme.pdf)
 * Prijavljivanje se vrši na [https://prijava.lsm.matf.online](https://prijava.lsm.matf.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
-* Rokovi za predaju:
-  - Rok 1
-    - Predaja radova **do 10.01.2021. u 23:59.**
-    - Odbrana u periodu od 13. do 15. januara 2021.
-  - Rok 2
-    - Predaja radova **do 02.03.2021. u 23:59.**
-    - Odbrana ce biti u sedmici posle.
-  - Rasporedi odbrana će biti naknadno objavljeni
+* Rokovi za predaju: 
+  - Rok za predaju predloga projekta:
+    - 21.12.2021. u 23:59.
+  - Rok 1 za predaju seminarkog:
+    - TBD
+  - Rok 2 za predaju seminarkog:
+    - TBD
+  <!--- Rasporedi odbrana će biti naknadno objavljeni-->
 
 ## Napomene / FAQ
 
@@ -37,6 +37,7 @@ style="display: inline-block; vertical-align: middle;"/> )
 ### Predaja radova
 
 * Radovi se predaju ***isključivo u pdf formatu**, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*.
+* Neophodno je poslati i **prezentaciju** u obliku slajdova (PDF, PowerPoint, Prezi i sl.). Prezentacija se može malo korigovati do odbrane.
 * Prilikom slanja rada, u Subject obavezno staviti naslov teme.
 * Dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno).
 * Kod se moze ubaciti kao deo dokumenta, ali samo ako su to kratki isečci koji imaju svrhu, i sa smislenom veličinom izlaza. **Nikako ne ostavljati u radu kod koji obuhvata vise strana dokumenta ili čiji izlaz obuhvata nekoliko strana. Rad prevashodno mora biti čitljiv.**
@@ -45,7 +46,6 @@ style="display: inline-block; vertical-align: middle;"/> )
 ### Odbrana
 
 * Pripremiti prezentaciju rada zajednički, u trajanju **do 15min**.
-* Slajdovi nisu neophodni ali su poželjni jer mnogo doprinose kvalitetu odbrane.
 * Nakon prezentacije svakom članu će biti postavljena neka pitanja u vezi sa radom. Svi članovi treba da budu upoznati sa svim delovima rada.
 * Odbrane će biti održane online i neophodno je da prisustvuju svi članovi timova, kao i svi timovi koji brane seminarski u odgovarajućoj grupi.
 
