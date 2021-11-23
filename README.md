@@ -4,7 +4,7 @@
 * Prijavljivanje se vrši na [https://prijava.lsm.matf.online](https://prijava.lsm.matf.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
 * Rokovi za predaju: 
-  - Rok za predaju predloga projekta:
+  - Rok za predaju predloga projekta: (Uputstvo: http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=2269)
     - 21.12.2021. u 23:59.
   - Rok 1 za predaju seminarkog:
     - TBD
@@ -39,7 +39,7 @@ style="display: inline-block; vertical-align: middle;"/> )
 * Radovi se predaju ***isključivo u pdf formatu**, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*.
 * Neophodno je poslati i **prezentaciju** u obliku slajdova (PDF, PowerPoint, Prezi i sl.). Prezentacija se može malo korigovati do odbrane.
 * Prilikom slanja rada, u Subject obavezno staviti naslov teme.
-* Dodatni kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno).
+* Kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno, treba da bude lepo formatiran i iskomentarisan).
 * Kod se moze ubaciti kao deo dokumenta, ali samo ako su to kratki isečci koji imaju svrhu, i sa smislenom veličinom izlaza. **Nikako ne ostavljati u radu kod koji obuhvata vise strana dokumenta ili čiji izlaz obuhvata nekoliko strana. Rad prevashodno mora biti čitljiv.**
 * U vezi sa prethodnom tačkom, ukoliko koristite Rmarkdown, obavezno koristite opcije `echo`, `include`, `message`, `warning`, `results` i slične, radi dobijanja lepšeg rezultujućeg dokumenta, bez suvišnih informacija. Više informacija: https://bookdown.org/yihui/rmarkdown-cookbook/hide-one.html
 
