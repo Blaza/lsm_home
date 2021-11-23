@@ -52,5 +52,6 @@ style="display: inline-block; vertical-align: middle;"/> )
 ### Poeni
 
 * Maksimalan broj poena za pismeni deo je 15 poena. Isto važi i za odbranu.
+* Za predlog projekta se dobija 5 poena i neophodno je predati ga pre predaje seminarskog
 * Broj poena će biti saopšten nakon što budu održane sve odbrane.
 * Broj poena za rad je isti za sve članove tima dok se za odbranu može dobiti različit broj poena.
