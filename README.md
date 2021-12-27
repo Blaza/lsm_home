@@ -6,9 +6,9 @@ style="display: inline-block; vertical-align: middle;"/> )
 * Rokovi za predaju: 
   - Rok za predaju predloga projekta: (Uputstvo: http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=2269)
     - 21.12.2021. u 23:59.
-  - Rok 1 za predaju seminarkog:
+  - Rok 1 za predaju seminarskog:
     - **06.01.2021. u 23:59.** (odbrane će biti naknadno zakazane u periodu od 08.01. - 12.01.)
-  - Rok 2 za predaju seminarkog:
+  - Rok 2 za predaju seminarskog:
     - **22.02.2021. u 23:59.** (odbrane će biti naknadno zakazane u periodu od 24.02. - 04.03.)
    
   Rasporedi odbrana će biti naknadno objavljeni
