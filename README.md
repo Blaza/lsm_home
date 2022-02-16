@@ -42,7 +42,7 @@ style="display: inline-block; vertical-align: middle;"/> )
 * Prilikom slanja rada, u Subject obavezno staviti naslov teme.
 * Kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno, treba da bude lepo formatiran i iskomentarisan).
 * Kod se moze ubaciti kao deo dokumenta, ali samo ako su to kratki isečci koji imaju svrhu, i sa smislenom veličinom izlaza. **Nikako ne ostavljati u radu kod koji obuhvata vise strana dokumenta ili čiji izlaz obuhvata nekoliko strana. Rad prevashodno mora biti čitljiv.**
-* U vezi sa prethodnom tačkom, ukoliko koristite Rmarkdown, obavezno koristite opcije `echo`, `include`, `message`, `warning`, `results` i slične, radi dobijanja lepšeg rezultujućeg dokumenta, bez suvišnih informacija. Više informacija: https://bookdown.org/yihui/rmarkdown-cookbook/hide-one.html
+* U vezi sa prethodnom tačkom, ukoliko koristite Rmarkdown, obavezno koristite opcije `echo`, `include`, `message`, `warning`, `results` i slične, radi dobijanja lepšeg rezultujućeg dokumenta, bez suvišnih informacija. Više informacija: <https://bookdown.org/yihui/rmarkdown-cookbook/hide-one.html>
 
 ### Odbrana
 
