@@ -9,7 +9,7 @@ style="display: inline-block; vertical-align: middle;"/> )
   - Rok 1 za predaju seminarskog:
     - **06.01.2021. u 23:59.** (odbrane će biti naknadno zakazane u periodu od 08.01. - 12.01.)
   - Rok 2 za predaju seminarskog:
-    - **22.02.2021. u 23:59.** (odbrane će biti naknadno zakazane u periodu od 24.02. - 04.03.)
+    - **25.02.2021. u 12:00. (podne)** (odbrane će biti naknadno zakazane)
    
   Rasporedi odbrana će biti naknadno objavljeni
 
@@ -31,7 +31,7 @@ style="display: inline-block; vertical-align: middle;"/> )
   Ohrabrujemo vas da nađete svoje izvore i proširite (ili zaobidjete) datu literaturu, u cilju maksimizovanja kvaliteta konačnog rada.<br>
   Za sve nedoumice nas možete pitati.
     
-* Na kraju rada je obavezno da postoji bibliografija korišćene literature (pomoć: [LaTeX](https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex), [Rmarkdown](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html))
+* **Na kraju rada je obavezno da postoji bibliografija korišćene literature** (pomoć: [LaTeX](https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex), [Rmarkdown](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html))
   
 * Kod nikako ne sme biti u vidu slike ni na jednom mestu, jer onda ne možemo pokrenuti isti.
 
