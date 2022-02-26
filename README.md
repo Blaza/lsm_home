@@ -9,7 +9,8 @@ style="display: inline-block; vertical-align: middle;"/> )
   - Rok 1 za predaju seminarskog:
     - **06.01.2021. u 23:59.** (odbrane će biti naknadno zakazane u periodu od 08.01. - 12.01.)
   - Rok 2 za predaju seminarskog:
-    - **25.02.2021. u 12:00. (podne)** (odbrane će biti naknadno zakazane)
+    - **25.02.2021. u 12:00. (podne)**
+    - Odbrana: Ponedeljak, 28.02.2022. Raspored: [http://enastava.matf.bg.ac.rs/mod/forum/discuss.php?d=509](http://enastava.matf.bg.ac.rs/mod/forum/discuss.php?d=509)
    
   Rasporedi odbrana će biti naknadno objavljeni
 
