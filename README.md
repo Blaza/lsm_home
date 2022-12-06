@@ -6,7 +6,7 @@
 style="display: inline-block; vertical-align: middle;"/> )
 * Rokovi za predaju: 
   - Rok za predaju predloga projekta: (Uputstvo: [http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=3837](http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=3837))
-    - 31.12.2022. u 23:59.
+    - 27.12.2022. u 23:59.
    
   Rasporedi odbrana će biti naknadno objavljeni
 
