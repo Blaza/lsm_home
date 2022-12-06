@@ -1,16 +1,12 @@
 # Seminarski iz Linearnih statističkih modela
 
+* *Obavezno pročitati sve stavke i napomene na ovoj stranici i poštovati data uputstva i pravila*
 * Spisak tema je na [ovom linku](teme.pdf)
 * Prijavljivanje se vrši na [https://prijava.lsm.matf.online](https://prijava.lsm.matf.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
 * Rokovi za predaju: 
-  - Rok za predaju predloga projekta: (Uputstvo: http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=2269)
-    - 21.12.2021. u 23:59.
-  - Rok 1 za predaju seminarskog:
-    - **06.01.2021. u 23:59.** (odbrane će biti naknadno zakazane u periodu od 08.01. - 12.01.)
-  - Rok 2 za predaju seminarskog:
-    - **25.02.2021. u 12:00. (podne)**
-    - Odbrana: Ponedeljak, 28.02.2022. Raspored: [http://enastava.matf.bg.ac.rs/mod/forum/discuss.php?d=509](http://enastava.matf.bg.ac.rs/mod/forum/discuss.php?d=509)
+  - Rok za predaju predloga projekta: (Uputstvo: [http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=3837](http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=3837))
+    - 31.12.2022. u 23:59.
    
   Rasporedi odbrana će biti naknadno objavljeni
 
@@ -25,6 +21,9 @@ style="display: inline-block; vertical-align: middle;"/> )
     
 * Kolege koje su prošle godine radile seminarski, nisu u obavezi da ga ponovo rade, već im se može preneti broj bodova sa prošlogodišnjeg seminarskog, samo neka se jave na gorepomenuti mejl.
 
+* Kolege koje polažu ceo ispit iz Elemenata statističkog učenja (dakle, nisu prethodno položili LSM), moraju odabrati temu sa zvezdicom.
+* Za kolege koje su ranije položili LSM i polažu samo razliku za ESU, važi dogovor od ranije, sumiran na stranici http://enastava.matf.bg.ac.rs/mod/choice/view.php?id=3756
+
 ### Izrada radova
 
 * **Literatura** navedena uz temu nije sveobuhvatna i ne treba se ograničavati na nju.<br>
@@ -32,22 +31,20 @@ style="display: inline-block; vertical-align: middle;"/> )
   Ohrabrujemo vas da nađete svoje izvore i proširite (ili zaobidjete) datu literaturu, u cilju maksimizovanja kvaliteta konačnog rada.<br>
   Za sve nedoumice nas možete pitati.
     
-* **Na kraju rada je obavezno da postoji bibliografija korišćene literature** (pomoć: [LaTeX](https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex), [Rmarkdown](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html))
-  
+* **Na kraju rada je obavezno da postoji bibliografija korišćene literature** (pomoć: [LaTeX](https://www.overleaf.com/learn/latex/bibliography_management_with_bibtex)
 * Kod nikako ne sme biti u vidu slike ni na jednom mestu, jer onda ne možemo pokrenuti isti.
 
 ### Predaja radova
 
-* Radovi se predaju ***isključivo u pdf formatu**, napravljenom u **LaTeX**-u ili **Rmarkdown**-u*.
+* Radovi se predaju ***isključivo u pdf formatu**, napravljenom u **LaTeX**-u.
 * Neophodno je poslati i **prezentaciju** u obliku slajdova (PDF, PowerPoint, Prezi i sl.). Prezentacija se može malo korigovati do odbrane.
 * Prilikom slanja rada, u Subject obavezno staviti naslov teme.
 * Kod treba predati zajedno sa radom kao R fajl (sredite ga prethodno, treba da bude lepo formatiran i iskomentarisan).
 * Kod se moze ubaciti kao deo dokumenta, ali samo ako su to kratki isečci koji imaju svrhu, i sa smislenom veličinom izlaza. **Nikako ne ostavljati u radu kod koji obuhvata vise strana dokumenta ili čiji izlaz obuhvata nekoliko strana. Rad prevashodno mora biti čitljiv.**
-* U vezi sa prethodnom tačkom, ukoliko koristite Rmarkdown, obavezno koristite opcije `echo`, `include`, `message`, `warning`, `results` i slične, radi dobijanja lepšeg rezultujućeg dokumenta, bez suvišnih informacija. Više informacija: <https://bookdown.org/yihui/rmarkdown-cookbook/hide-one.html>
 
 ### Odbrana
 
-* Pripremiti prezentaciju rada zajednički, u trajanju **do 15min**.
+* Pripremiti prezentaciju rada zajednički, u trajanju **do 15min**. Uvežbati je zajedno, kako bi vreme zaista bilo ispoštovano.
 * Nakon prezentacije svakom članu će biti postavljena neka pitanja u vezi sa radom. Svi članovi treba da budu upoznati sa svim delovima rada.
 * Odbrane će biti održane online i neophodno je da prisustvuju svi članovi timova, kao i svi timovi koji brane seminarski u odgovarajućoj grupi.
 
