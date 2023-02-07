@@ -11,7 +11,8 @@ style="display: inline-block; vertical-align: middle;"/> )
     - 08.01.2023. u 10:00
     - Odbrana radova ce biti 09.01.2023.
   - Drugi rok za predaju radova:
-    - Bice naknadno objavljen
+    - 17.02.2023. u 23:59
+    - Odbrana ce biti dogovorena naknadno, od 20.02. do 22.02.
    
   Rasporedi odbrana će biti naknadno objavljeni
 
