@@ -4,17 +4,6 @@
 * Spisak tema je na [ovom linku](teme.pdf)
 * Prijavljivanje se vrši na [https://prijava.lsm.matf.online](https://prijava.lsm.matf.online) ( <img src="https://img.shields.io/uptimerobot/status/m783776540-3da45f20f673a158289141b9?label=Server%20Status"
 style="display: inline-block; vertical-align: middle;"/> )
-* Rokovi za predaju: 
-  - Rok za predaju predloga projekta: (Uputstvo: [http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=3837](http://enastava.matf.bg.ac.rs/mod/lesson/edit.php?id=3837))
-    - 27.12.2022. u 23:59.
-  - Prvi rok za predaju radova:
-    - 08.01.2023. u 10:00
-    - Odbrana radova ce biti 09.01.2023.
-  - Drugi rok za predaju radova:
-    - 17.02.2023. u 23:59
-    - Odbrana ce biti 20.02. sa pocetkom u 14h. Ko ce biti online, neka se najavi mejlom. [Raspored](http://enastava.matf.bg.ac.rs/mod/forum/discuss.php?d=606)
-   
-  Rasporedi odbrana će biti naknadno objavljeni
 
 ## Napomene / FAQ
 
